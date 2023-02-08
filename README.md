@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirankabothu
+- 👋 Hi, I’m @kirankabotu
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
